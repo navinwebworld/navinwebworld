@@ -1,2 +1,2 @@
 # navinwebworld
-web designing and development solutions
+web design and development solutions
